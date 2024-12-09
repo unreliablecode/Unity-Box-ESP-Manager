@@ -1,4 +1,4 @@
-```markdown
+
 # 2D Box ESP
 
 A simple Unity script for creating 2D box ESP (Extra Sensory Perception) indicators for game objects in a scene. This script utilizes Object-Oriented Programming (OOP) principles and is organized within the `unreliablecode` namespace.
@@ -40,4 +40,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Author
 
 [unreliablecode](https://github.com/unreliablecode)
-```
